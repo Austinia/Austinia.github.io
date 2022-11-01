@@ -1,18 +1,18 @@
-title: Doyun Kim
-description: Web Front-End Engineering Student
-site_title: 'Doyun's Portfolio'
+title: Abhishek Nagekar
+description: Web & Security Engineer
+site_title: '@abhn - Abhishek Nagekar'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: Austinia
+github_username: abhn
 blog_url: https://www.nagekar.com
-email: vladimir90919@gmail.com
-keybase_username: Austinia
-twitter_username: Nord
-reddit_username: Nord
+email: abhishek@nagekar.com
+keybase_username: abhn
+twitter_username: abhn_
+reddit_username: abhn
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
