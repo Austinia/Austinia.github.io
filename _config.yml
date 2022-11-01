@@ -7,7 +7,7 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: Austin
+github_username: Austinia
 blog_url: https://gakjong-coding-jeongbo.tistory.com/
 email: vladimir90919@gmail.com
 keybase_username: Austin
