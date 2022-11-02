@@ -148,3 +148,7 @@
 #project-image:hover {
 	transform: scale(1.1);
 }
+
+.paragraph-text-normal a {
+  color: #2980b9;
+}
