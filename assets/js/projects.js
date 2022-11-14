@@ -28,6 +28,15 @@ let render_projects = (slug) => {
           description: "파이어베이스의 이메일 회원가입, 구글 아이디와 트위터 아이디로 회원가입 기능과 트윗 기능 구현",
           categories: ['FrontEnd']
       },
+      {
+        image: 'assets/images/cyberandum.png',
+        link: 'https://github.com/Austinia/Cyberandum',
+        title: 'Cyberandum, Custom Homepage',
+        demo: 'https://austinia.github.io/Cyberandum/',
+        technologies: ['Javascript', 'HTML', 'CSS'],
+        description: "JS로 커스텀 브라우저 홈페이지 제작, Local Storage를 이용한 로그인 기능, 시계와 Todo-list 구현",
+        categories: ['FrontEnd']
+    },
         // {
         //     image: 'assets/images/mobile-landscape.jpg',
         //     link: 'https://github.com/abhn/Wall-E',
