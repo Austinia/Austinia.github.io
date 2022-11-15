@@ -37,6 +37,16 @@ let render_projects = (slug) => {
         description: "JS로 커스텀 브라우저 홈페이지 제작, Local Storage를 이용한 로그인 기능, 시계와 Todo-list 구현",
         categories: ['FrontEnd']
     },
+    {
+      image: 'assets/images/entire.png',
+      link: 'https://github.com/Capstone-2022-15/CapstoneProject/tree/dbcrud',
+      title: '캡스톤 디자인 실습, 제주대학교 학과 게시판',
+      demo: false,
+      technologies: ['Node.js', 'Docker', 'AWS', 'MySQL'],
+      description: "REST API와 Express를 이용한 Node.js 서버, MySQL 서버와 Flask 서버를 Docker Image로 빌드해 AWS EC2에 배포",
+      categories: ['BackEnd']
+  },
+    //https://github.com/Capstone-2022-15/CapstoneProject/tree/dbcrud
         // {
         //     image: 'assets/images/mobile-landscape.jpg',
         //     link: 'https://github.com/abhn/Wall-E',
