@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'FFXIV search Bot',
             demo: 'https://koreanbots.dev/bots/856084843313758218',
             technologies: ['Node.js', 'Javascript'],
-            description: "외부 API를 이용해 디스코드 채널 내에서 게임 캐릭터를 검색할 수 있는 서비스 Heroku 이슈로 인해 서비스 중단",
+            description: "외부 API를 이용해 디스코드 채널 내에서 게임 캐릭터를 검색할 수 있는 서비스",
             categories: ['BackEnd']
         },
         {
